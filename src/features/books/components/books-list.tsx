@@ -20,7 +20,7 @@ export default function BooksList(props: { books: Doc[] }) {
             <TableRow>
               <TableHead className="w-1/2">Title (first published)</TableHead>
               <TableHead>First Author</TableHead>
-              <TableHead className="text-right">Language(s)</TableHead>
+              <TableHead>Language(s)</TableHead>
             </TableRow>
           </TableHeader>
           <TableBody>
