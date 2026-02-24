@@ -1,6 +1,6 @@
 import Home from '@/app/page';
-import ReactQueryTypescriptPage from '@/app/react-query-typescript/page';
 import VanillaTypescriptPage from '@/app/vanilla-typescript/page';
+import ReactQueryTypescriptPage from '@/app/react-query-typescript/page';
 
 type TRoute = {
   path: string;
