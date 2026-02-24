@@ -45,3 +45,5 @@ By doing so, type safety was established, improving readability and maintainabil
 ### Live site
 
 This site has been deployed to [Cloudflare Pages](https://frontend-emma-challenge.pages.dev/)
+
+![UI screenshot](public/emma-app-screenshot.png)
