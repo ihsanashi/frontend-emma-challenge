@@ -28,7 +28,7 @@ export const ROUTES: TRoute[] = [
   {
     path: '/react-query-typescript',
     component: ReactQueryTypescriptPage,
-    label: 'React Query TypeScript',
+    label: 'React Query + TypeScript',
     key: 'react-query-typescript',
     exact: true,
   },
